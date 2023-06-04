@@ -50,10 +50,6 @@
   
  - ExpressFlight mainly uses n-tier architecture project. It is still currently in development with the most of the back-end logic complete and front-end at the design phase.
   
-<h4>Demo Videos:<h4>
-Work in Progress...  
-<h4>Future Plans:<h4>
-Work in Progress...
   
  <h3>Side/Previous Projects</h3>
   <h4>ExpressFlight Version 1.0</h4>
