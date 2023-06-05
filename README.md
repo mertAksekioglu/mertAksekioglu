@@ -53,7 +53,7 @@
   
   
  <h3>Side/Previous Projects</h3>
-  <h4>ExpressFlight Version 1.0</h4>
+  <h4><a href="https://github.com/mertAksekioglu/ExpressFlight-V1">ExpressFlight Version 1.0</a></h4>
   <h4>Bitcoin Prediction</h4>
   
 <h3>Github Data</h3>
