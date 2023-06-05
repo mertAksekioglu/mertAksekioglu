@@ -42,7 +42,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<h3>Main: ExpressFlight Version 2.0</h3>
+<h3>Main Project: ExpressFlight Version 2.0</h3>
 
 <h4>Description:<h4> 
   
